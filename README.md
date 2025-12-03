@@ -1,10 +1,51 @@
-- 👋 Hi, I’m @munsh019  
-- 👀 I’m interested in coding, problem-solving, and building practical projects  
-- 🌱 I’m currently learning SQL, JDBC, and strengthening my Java fundamentals  
-- 💞️ I’m looking to collaborate on beginner-friendly open-source projects and Java-based applications  
-- 📫 How to reach me: **munishchand2004@gmail.com**  
+👋 Hi, I'm Munish
+🚀 Java Developer | 💻 Problem Solver | 📚 Continuous Learner
 
-<!---
-munsh019/munsh019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a passionate Java developer focused on writing clean code, solving real-world problems, and building practical applications.
+Currently leveling up my skills in Core Java, SQL, JDBC, and Spring Boot, while creating beginner-friendly projects.
+
+👀 Interests
+
+Java Development
+
+SQL & Database Design
+
+Building real-world console applications
+
+Debugging & problem solving
+
+Learning new technologies
+
+🌱 Currently Learning
+
+Java OOP & Collections
+
+SQL (Joins, Constraints, Queries)
+
+JDBC & MySQL connectivity
+
+Spring Boot (REST APIs, MVC)
+
+Git & GitHub workflow
+
+🤝 Looking to Collaborate On
+
+Java-based beginner to intermediate projects
+
+Spring Boot REST API projects
+
+Open-source contributions
+
+Simple desktop or console applications
+
+📫 Reach Me At
+
+📧 Email: munishchand2004@gmail.com
+
+💼 GitHub: github.com/munsh019
+
+⚡ Fun Fact
+
+I enjoy creating projects that solve real problems — even small ones — because every project teaches something new!
+
+Thanks for visiting my profile! 😊
