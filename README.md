@@ -1,51 +1,61 @@
-👋 Hi, I'm Munish
-🚀 Java Developer | 💻 Problem Solver | 📚 Continuous Learner
+# 👋 Hi, I'm Munish
 
-I am a passionate Java developer focused on writing clean code, solving real-world problems, and building practical applications.
-Currently leveling up my skills in Core Java, SQL, JDBC, and Spring Boot, while creating beginner-friendly projects.
+### 🚀 Java Developer | 💻 Problem Solver | 🌱 Continuous Learner
 
-👀 Interests
+I’m a passionate Java developer focused on building practical applications, mastering backend development, and improving every day through real projects.
 
-Java Development
+---
 
-SQL & Database Design
+## 👀 Interests
+- Java Development  
+- Backend Engineering  
+- SQL & Database Design  
+- Learning Spring Boot  
+- Debugging & Problem Solving  
 
-Building real-world console applications
+---
 
-Debugging & problem solving
+## 🌱 Currently Learning
+- Core Java (OOP, Collections, Exception Handling)  
+- SQL + MySQL Queries  
+- JDBC (Database Connectivity)  
+- **Spring Boot (REST APIs, MVC, JPA)**  
+- Git & GitHub workflow  
 
-Learning new technologies
+---
 
-🌱 Currently Learning
+## 🛠 Skills
+- Java  
+- JDBC  
+- MySQL  
+- OOP  
+- Git & GitHub  
+- IntelliJ IDEA  
 
-Java OOP & Collections
+---
 
-SQL (Joins, Constraints, Queries)
+## 📚 My Projects
+### 🔹 **Hospital Management System (Java + MySQL)**
+Console-based CRUD system for managing patients, doctors, and appointments.  
+👉 *(Link here after you upload the repo)*
 
-JDBC & MySQL connectivity
+### 🔹 More projects coming soon...
+I actively work on new Java & Spring Boot projects to strengthen my backend skills.
 
-Spring Boot (REST APIs, MVC)
+---
 
-Git & GitHub workflow
+## 🤝 I’m looking to collaborate on
+- Beginner-friendly Java projects  
+- Spring Boot REST API applications  
+- Open-source repositories  
+- Any initiative where I can learn and contribute  
 
-🤝 Looking to Collaborate On
+---
 
-Java-based beginner to intermediate projects
+## 📫 Reach Me At
+📧 **Email:** munishchand2004@gmail.com  
+🔗 **GitHub:** [github.com/munsh019](https://github.com/munsh019)
 
-Spring Boot REST API projects
+---
 
-Open-source contributions
-
-Simple desktop or console applications
-
-📫 Reach Me At
-
-📧 Email: munishchand2004@gmail.com
-
-💼 GitHub: github.com/munsh019
-
-⚡ Fun Fact
-
-I enjoy creating projects that solve real problems — even small ones — because every project teaches something new!
-
-Thanks for visiting my profile! 😊
+### ⭐ Thanks for visiting my profile!  
